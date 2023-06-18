@@ -1,0 +1,4 @@
+our secrect message
+which needs to be encrypted
+
+Secret document
